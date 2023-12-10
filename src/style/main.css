@@ -1,0 +1,21 @@
+
+div{
+    max-width: 500px;
+    min-width: 400px;
+    max-height: 200px;
+    display: inline-block;
+    vertical-align: top;
+  }
+  #randomNumber, #product{
+    margin-top: 0px;
+    text-align: center;
+    font-size: 184px;
+    overflow-y: visible;
+  }
+  
+  #rNum {
+    background-color: red;
+  }
+  .product{
+    background-color: blue;
+  }
