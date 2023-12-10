@@ -1,11 +1,12 @@
 
-div{
+div {
     max-width: 500px;
     min-width: 400px;
     max-height: 200px;
     display: inline-block;
     vertical-align: top;
   }
+  
   #randomNumber, #product{
     margin-top: 0px;
     text-align: center;
